@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am an aspiring Software and Web Developer
 -------------------------------------------
 
-I am currently studying towards a BSC in Information & Knowledge Systems at the University of Pretoria. I've been learning to code since high school and quickly found a passion for web and software development. I love being able to combine my artistic and creative skills with my logic and technical skills to create new projects. I thrive on turning ideas into interactive, user-friendly web and software solutions. From coding dynamic websites to developing innovative applications, I enjoy every step of the process. Whether it's crafting a sleek user interface or solving complex problems with code, I’m dedicated to delivering exceptional digital experiences.
+I've been learning to code since high school and quickly found a passion for web and software development. I love being able to combine my artistic and creative skills with my logic and technical skills to create new projects. I thrive on turning ideas into interactive, user-friendly web and software solutions. From coding dynamic websites to developing innovative applications, I enjoy every step of the process. Whether it's crafting a sleek user interface or solving complex problems with code, I’m dedicated to delivering exceptional digital experiences.
 
 *   🌍  I'm based in South Africa 🇿🇦
 *   ✉️  You can contact me at [tifuhnche@gmail.com](mailto:tifuhnche@gmail.com)
