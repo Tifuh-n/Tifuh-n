@@ -6,9 +6,7 @@ I am an aspiring Software and Web Developer
 
 I've been learning to code since high school and quickly found a passion for web and software development. I love being able to combine my artistic and creative skills with my logic and technical skills to create new projects. I thrive on turning ideas into interactive, user-friendly web and software solutions. From coding dynamic websites to developing innovative applications, I enjoy every step of the process. Whether it's crafting a sleek user interface or solving complex problems with code, I’m dedicated to delivering exceptional digital experiences.
 
-*   🌍  I'm based in South Africa 🇿🇦
-*   ✉️  You can contact me at [tifuhnche@gmail.com](mailto:tifuhnche@gmail.com)
-*   🧠  I'm currently learning Software modelling, Concurrent Systems, Computer Organization & Architecture and Computer Security & Ethics
+*   🌍  I'm based in South Africa 🇿🇦  
 
 <a href="https://www.github.com/Tifuh-n" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Tifuh-n?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/tifuh_n" target="_blank" rel="noreferrer"><img
